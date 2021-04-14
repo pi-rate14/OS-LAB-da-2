@@ -1,2 +1,2 @@
-# OS-LAB-da-2
+# Algorithms
 scheduling algorithms and process programs used in operating systems.
